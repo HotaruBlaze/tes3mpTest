@@ -1,0 +1,8 @@
+{
+    "name": "Test Script",
+    "description": "A test script for the server.",
+    "files": [
+        "scripts/module1.lua",
+        "scripts/module2.lua"
+    ]
+}
