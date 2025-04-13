@@ -1,7 +1,0 @@
-{
-    "name": "Test Script",
-    "description": "A test script for the server.",
-    "files": [
-        "portableBedroll"
-    ]
-}
